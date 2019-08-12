@@ -1,4 +1,4 @@
-#coded by Jey Zeta
+#coded by Whoami
 import sys, os, webbrowser, platform, subprocess, time
 
 import webbrowser
